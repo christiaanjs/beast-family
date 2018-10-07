@@ -1,0 +1,9 @@
+[submodule "beast2"]
+	path = beast2
+	url = git@github.com:CompEvol/beast2.git
+[submodule "BEASTLabs"]
+	path = BEASTLabs
+	url = git@github.com:BEAST2-Dev/BEASTLabs.git
+[submodule "sampled-ancestors"]
+	path = sampled-ancestors
+	url = git@github.com:CompEvol/sampled-ancestors.git
