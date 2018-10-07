@@ -7,3 +7,7 @@
 [submodule "sampled-ancestors"]
 	path = sampled-ancestors
 	url = git@github.com:CompEvol/sampled-ancestors.git
+[submodule "sranges"]
+	path = sranges
+	url = git@github.com:christiaanjs/sranges.git
+	branch = master
