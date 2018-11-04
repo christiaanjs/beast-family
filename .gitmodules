@@ -11,3 +11,6 @@
 	path = sranges
 	url = git@github.com:christiaanjs/sranges.git
 	branch = master
+[submodule "MASTER"]
+	path = MASTER
+	url = git@github.com:tgvaughan/MASTER.git
